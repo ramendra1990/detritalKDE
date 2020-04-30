@@ -5,7 +5,5 @@ Calculates kernel density (KD) and KD - based mass balance and plots empirical p
 
 
 <p align="center">
-  <font size="100">
-    <b>Help files and demo data will be uploaded soon...</b>
-  </font>
+  <b>Help files and demo data will be uploaded soon...</b>
 </p>
