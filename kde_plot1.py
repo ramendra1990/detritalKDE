@@ -1,12 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Apr 18 11:08:44 2020
-
 @author: ramendra
 """
-
-
-
 def silverman_bw(x):
     import numpy as np
     s = np.nanstd(x)
