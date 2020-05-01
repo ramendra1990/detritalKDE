@@ -1,7 +1,10 @@
 ## detritalKDE
 Calculates kernel density (KD) and KD - based mass balance and plots empirical pdf and pie plots for multiple detrital samples.
 
-<p style='color:red'>This is some red text.</p>
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 
 <p align="left">
   <b>Example Figures</b>
