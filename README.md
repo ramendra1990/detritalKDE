@@ -1,11 +1,8 @@
 ## detritalKDE
 Calculates kernel density (KD) and KD - based mass balance and plots empirical pdf and pie plots for multiple detrital samples.
+&nbsp;
 
-The action of every agent <br />
-  into the world <br />
-starts <br />
-  from their physical selves. <br />
-  
+
  
 <p align="left">
   <div class="text-purple">
