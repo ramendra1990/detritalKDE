@@ -14,6 +14,7 @@ Calculates kernel density (KD) and KD - based mass balance and plots empirical p
 <p align="center">
   <I>Figure 2</I>
 </p>
+
 ![Example Figure 2](https://github.com/ramendra1990/detritalKDE/blob/master/demo%20figures/Figure_2.png)
 
 <p align="center">
