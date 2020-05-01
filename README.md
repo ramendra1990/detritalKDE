@@ -1,8 +1,8 @@
 ## detritalKDE
 Calculates kernel density (KD) and KD - based mass balance and plots empirical pdf and pie plots for multiple detrital samples.
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
+<div class="text-blue mb-2">
+  .text-blue on white
 </div>
 
 <p align="left">
