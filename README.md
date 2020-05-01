@@ -28,7 +28,9 @@ Calculates kernel density (KD) and KD - based mass balance and plots empirical p
 <p align="center">
   <I>Figure 2. Detrital age distribution of samples collected from a fluvial stratigraphic section, compared with that of different rivers in the catcment as well as a nearby dune field sample.</I>
 </p>
-
+&nbsp;
+&nbsp;
+&nbsp;
 <p align="center">
   <b>**Help files and demo data will be uploaded soon...</b>
 </p>
